@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://twitter.com/yogeshmandwat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yogeshmandwat" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yogeshmandawt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yogeshmandawt" height="30" width="40" /></a>
-<a href="https://instagram.com/yogirajput7439" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yogirajput7439" height="30" width="40" /></a>
+<a href="https://instagram.com/yogi_rajput__7439" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yogirajput7439" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@logicalyogi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@logicalyogi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yogirajput7439" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yogirajput7439" height="30" width="40" /></a>
 </p>
